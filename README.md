@@ -3,7 +3,7 @@
 * classification
 * clustering
 
-## Before start
+## Setup
 
 Project consist pythons scripts in jupyter notebooks
 
@@ -19,6 +19,8 @@ After that install libraries:
 `pip install -U numpy`
 
 `pip install -U scipy`
+
+## Getining Started
 
 Run jupyter notebook with command (execute where this README.md is):
 `jupyter notebook` and open generated URL in browser.
